@@ -1,0 +1,7 @@
+{
+  "name": "AuraHealth AI Pro",
+  "description": "An advanced health analysis and monitoring platform featuring AI health insights, mental wellness with AI storytelling, lifecycle habit tracking, and a comprehensive doctor consultation portal.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
